@@ -1,5 +1,5 @@
 {
-"products"; [
+"products": [
 {"id":1,"name":"Quoll, spotted-tailed","category":"Teal"},
 {"id":2,"name":"Marmot, yellow-bellied","category":"Goldenrod"},
 {"id":3,"name":"Lesser flamingo","category":"Aquamarine"},
