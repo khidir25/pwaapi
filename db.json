@@ -1,0 +1,24 @@
+{
+"products"; [
+{"id":1,"name":"Quoll, spotted-tailed","category":"Teal"},
+{"id":2,"name":"Marmot, yellow-bellied","category":"Goldenrod"},
+{"id":3,"name":"Lesser flamingo","category":"Aquamarine"},
+{"id":4,"name":"Common seal","category":"Teal"},
+{"id":5,"name":"Bat-eared fox","category":"Goldenrod"},
+{"id":6,"name":"Green-winged macaw","category":"Violet"},
+{"id":7,"name":"Nuthatch, red-breasted","category":"Pink"},
+{"id":8,"name":"Antelope ground squirrel","category":"Green"},
+{"id":9,"name":"Caracara, yellow-headed","category":"Goldenrod"},
+{"id":10,"name":"Peregrine falcon","category":"Puce"},
+{"id":11,"name":"Eagle, african fish","category":"Khaki"},
+{"id":12,"name":"Jabiru stork","category":"Crimson"},
+{"id":13,"name":"Springbok","category":"Fuscia"},
+{"id":14,"name":"Carpet snake","category":"Green"},
+{"id":15,"name":"Fairy penguin","category":"Orange"},
+{"id":16,"name":"Nutcracker, clark's","category":"Yellow"},
+{"id":17,"name":"Wood pigeon","category":"Maroon"},
+{"id":18,"name":"Bison, american","category":"Red"},
+{"id":19,"name":"Kori bustard","category":"Teal"},
+{"id":20,"name":"Great cormorant","category":"Yellow"}
+]
+}
